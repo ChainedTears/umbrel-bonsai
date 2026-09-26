@@ -9,3 +9,4 @@ description: >-
 developer: Arthur
 website: https://github.com/PrismML-Eng
 port: 8080
+path: ""
