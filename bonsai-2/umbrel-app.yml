@@ -1,0 +1,11 @@
+manifestVersion: 1
+id: bonsai-2
+category: AI
+name: Bonsai 2 Inference
+version: "1.0.0"
+tagline: 1-bit Ternary LLM Server via PrismML
+description: >-
+  A locally hosted, memory-efficient instance of the Bonsai 2 27B model for agentic and OpenClaw tasks.
+developer: Arthur
+website: https://github.com/PrismML-Eng
+port: 8080
